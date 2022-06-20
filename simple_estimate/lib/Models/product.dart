@@ -2,7 +2,7 @@
 
 
 import 'package:isar/isar.dart';
-import 'package:simple_estimate/Models/Item.dart';
+import 'package:simple_estimate/Models/Category.dart';
 
 @Collection()
 class Product {
